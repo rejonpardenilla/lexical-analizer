@@ -1,6 +1,5 @@
 <?php 
 require_once 'DoubleNode.php';
-require_once 'Node.php';
 
 class Stack{
 	private $first;
