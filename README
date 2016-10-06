@@ -1,0 +1,13 @@
+Lexical-analizer - README
+
+Puedes probar este código en:
+	http://dandarkus.heliohost.org/Lexical-analizer
+
+Archivos que se incluyen en el proyecto:
+	resources:
+		Analizer.php
+		DoubleNode.php
+		Node.php
+		Stack.php
+	index.php
+
