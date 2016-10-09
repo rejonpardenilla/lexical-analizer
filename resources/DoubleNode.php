@@ -15,7 +15,7 @@ class DoubleNode extends Node{
 
 	function setPreviousNode($previousNode) {
 		$this->previousNode = $previousNode;
-	}
+	} 
 }
 
  ?>
